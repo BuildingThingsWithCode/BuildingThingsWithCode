@@ -1,3 +1,3 @@
 #### Leetcode stats:  
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=BuildingThingsWithCode)
+![Leetcode Stats](https://leetcard.jacoblin.cool/BuildingThingsWithCode)
